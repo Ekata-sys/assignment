@@ -1,4 +1,4 @@
-# hello-world
+# Assignment in vue js
 
 ## Project setup
 ```
